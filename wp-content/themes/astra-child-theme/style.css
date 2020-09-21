@@ -5,17 +5,17 @@
  Author:       Danielle Gøller
  Author URI:   http://daniellegoeller.dk
  Template:     astra
- Version:      1.2.0
+ Version:      1.2.2
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  astrachild
 */
 
-/* The navigation bare is fixed  */
+/* The navigation bar is set to fixed and colour background colour is changed.  */
 .main-header-bar-wrap {
     position: fixed;
     width: 100%;
     z-index: 1;
-    background-color: black;
+    background-color: #ECE6DF;
 }
